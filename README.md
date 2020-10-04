@@ -5,5 +5,5 @@
 
 
 
-*zip folders in Library Folder need to be unzipped
+*zip folders in Library and Assets Folders need to be unzipped
 
