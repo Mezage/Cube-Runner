@@ -1,6 +1,6 @@
 # Cube-Runner
 3 Level Unity Game
-- Player continuosly moves forward and has to dodge the obstacles until they reach the end of the level
+- Player continuosly moves forward and has to dodge the obstacles until they reach the end of the level (WASD)
 - Timer on top shows score, helps to time out how far into level they are
 - Simple menu, and short level designs
 - First complete game created in Unity
