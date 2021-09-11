@@ -9,10 +9,10 @@
 *zip folders in Library and Assets Folders need to be unzipped
 
 ## Screenshots
-###### Menu Screen
+### Menu Screen
 ![menu](https://user-images.githubusercontent.com/65369162/132938993-8b4290f3-6aa6-43f7-95d6-fb04330f2652.PNG)
 
 
-###### Sample Level
+### Sample Level
 ![level](https://user-images.githubusercontent.com/65369162/132938997-e06ac0a8-b5a8-4946-9426-57c54d52a5e3.PNG)
 
